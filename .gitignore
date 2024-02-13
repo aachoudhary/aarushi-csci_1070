@@ -1,3 +1,2 @@
-git add . 
-git commit -m "Add .gitignore file" 
-git push
+**/.DS_Store
+**/.ipynb_checkpoints
