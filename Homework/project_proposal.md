@@ -8,8 +8,8 @@ What dataset are you going to use (you can select more or less anything not alre
 Netflix Movies Titles. The Netflix Titles dataset includes information about movies and TV shows on Netflix. It covers details like title type, director, cast, production country, release year, rating, duration, genres, and a short description of each movie. https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/data 
 
 What is your starting hypothesis about the data? Create a null hypothesis and an alternative hypothesis as follows:
-Null: There will be no significance between release year and rating
-Alternative: There will be a correlation between release year and rating. 
+Null: There will be no significance between release year, country, cast and rating
+Alternative: There will be a correlation between release year, country, cast and rating. 
 
 What models do you plan to apply to your data first? 
 
